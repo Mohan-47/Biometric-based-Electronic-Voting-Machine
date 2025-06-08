@@ -1,4 +1,4 @@
-﻿# BiometricEVM_RaspberryPI
+﻿# Biometric-based Electronic Voting Machine_RaspberryPi
 This project is a Biometric Electronic Voting Machine (EVM) that uses fingerprint verification to ensure that only eligible voters can cast their vote. The project is built using a Raspberry Pi 4 Model B and an R307 Fingerprint Sensor.
 
 - The main.py file contains the source code for this project.
