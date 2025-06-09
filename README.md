@@ -37,6 +37,7 @@ The R307 is connected serially here but it can be connected through an USB-TTL C
    - The vote is recorded and saved to a file named voting_results.txt.
 6. Result :
    - Another part of the software reads the voting_results.txt file and displays the voting results in a separate window.
+![Architecture](https://github.com/user-attachments/assets/a3f04322-175a-4608-abe7-e05d376e59d5)
 
 # References
 - R307 datasheet - https://www.rajguruelectronics.com/Product/1276/R307%20Fingerprint%20Module.pdf
